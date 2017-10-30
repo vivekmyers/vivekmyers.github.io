@@ -2,7 +2,6 @@
 layout: default
 title: "Vivek Myers"
 ---
-<h1>
 ![Vivek Myers](pictures/vivek-myers-2017.jpg)
 
 - [Class website for Ithaca High School AP Chemistry](http://www.tuorichem.com)
