@@ -1,3 +1,8 @@
+---
+layout: post
+title: Vivek Myers
+---
+
 ![Vivek Myers](http://)
 
 - Class website for Ithaca High School AP Chemistry
