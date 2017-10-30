@@ -1,2 +1,5 @@
-# This is the start of a web site
+- Class website for Ithaca High School AP Chemistry
+- [Termite Chess](http://kbam.net/termite)
+- Chess game
+- Blockjumper
 
