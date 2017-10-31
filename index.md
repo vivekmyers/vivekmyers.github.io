@@ -8,7 +8,7 @@ title: "Vivek Myers"
 - [Termite Chess](http://kbam.net/termite)
 - [Chess game (Java)](lib/Chess.jar)
 - [Blockjumper](https://vm0.neocities.org/block-jumper.html)
-- [Gnomenwald (Java)](lib/Gnomenwald.jar)
+- [Gnomenwald (Java)](lib/GnomenWald.jar)
 - [Bees (Java)](lib/Bees.jar)
 
 <script type="application/javascript">
