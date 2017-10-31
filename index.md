@@ -4,12 +4,12 @@ title: "Vivek Myers"
 ---
 
 ![Vivek Myers](pictures/vivek-myers-2017.jpg)
-- [Class website for Ithaca High School AP Chemistry](http://www.tuorichem.com)
-- [Termite Chess](http://kbam.net/termite)
+- [Class website for Ithaca High School AP Chemistry](http://www.tuorichem.com) (Primary designer and maintainer)
+- [Termite Chess](http://kbam.net/termite) (a very old project)
 - [Chess game (Java)](lib/Chess.jar)
-- [Blockjumper](https://vm0.neocities.org/block-jumper.html)
-- [Gnomenwald (Java)](lib/GnomenWald.jar)
-- [Bees (Java)](lib/Bees.jar)
+- [Blockjumper](https://vm0.neocities.org/block-jumper.html) (A JavaScript game)
+- [Gnomenwald (Java)](lib/GnomenWald.jar) (CS 2110 final project)
+- [Bees (Java)](lib/Bees.jar) (playing with Java graphics and swarming)
 
 <script type="application/javascript">
   function forAllByClass(cn, f) {
