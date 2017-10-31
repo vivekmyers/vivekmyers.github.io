@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 webrick:
   headers:
-    My-Header: "Vivek Myers"
+    project-tagline: "Vivek Myers"
