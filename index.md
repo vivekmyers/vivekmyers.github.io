@@ -19,9 +19,9 @@ title: "Vivek Myers"
     forAllByClass(cn, function (n) { n.parentNode.removeChild(n) })
   }
   removeAll("project-tagline")
-  removeAll("site-footer")
-  setTimeout(function() {                       
-    forAllByClass("project-name",
+  forAllByClass("project-name",
       function(pn) { pn.innerText = "Vivek Myers" })
+  setTimeout(function() {
+    removeAll("site-footer")
   }, 1)
 </script>
