@@ -20,6 +20,8 @@ title: "Vivek Myers"
   }
   removeAll("project-tagline")
   removeAll("site-footer")
-  forAllByClass("project-name",
-    function(pn) { pn.innerText = "Vivek Myers" })
+  setTimeout(function() {                       
+    forAllByClass("project-name",
+      function(pn) { pn.innerText = "Vivek Myers" })
+  }, 1)
 </script>
