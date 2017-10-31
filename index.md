@@ -6,8 +6,10 @@ title: "Vivek Myers"
 ![Vivek Myers](pictures/vivek-myers-2017.jpg)
 - [Class website for Ithaca High School AP Chemistry](http://www.tuorichem.com)
 - [Termite Chess](http://kbam.net/termite)
-- [Chess game](lib/Chess.jar)
+- [Chess game (Java)](lib/Chess.jar)
 - [Blockjumper](https://vm0.neocities.org/block-jumper.html)
+- [Gnomenwald (Java)](lib/Gnomenwald.jar)
+- [Bees (Java)](lib/Bees.jar)
 
 <script type="application/javascript">
   function forAllByClass(cn, f) {
