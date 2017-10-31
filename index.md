@@ -10,16 +10,16 @@ title: "Vivek Myers"
 - [Blockjumper](https://vm0.neocities.org/block-jumper.html)
 
 <script type="application/javascript">
-  function removeAll(cn) {
+  function forAllByClass(cn, f) {
     var nl = document.getElementsByClassName(cn)
-    for (var i = 0; i < nl.length; i++) {
-      nl[i].parentNode.removeChild(nl[i])
-    }
+    for (var i = 0; i < nl.length; i++)
+      f(nl[i])
+  }
+  function removeAll(cn) {
+    forAllByClass(cn, function (n) { n.parentNode.removeChild(n) })
   }
   removeAll("project-tagline")
-  removeAll("site-footer")                                
-  var pn = document.getElementsByClassName("project-name")
-  for (var i = 0; i < pn.length; i++) {
-    pn[i].innerText = "Vivek Myers"
-  }
+  removeAll("site-footer")
+  forAllByClass("project-name",
+    function(pn) { pn.innerText = "Vivek Myers" })
 </script>
