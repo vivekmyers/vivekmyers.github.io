@@ -5,6 +5,7 @@ title: "Vivek Myers"
 <style>
   #headshot { position: absolute; left: 30px; top: 30px; border: 1ex solid white }
   .listpic { height: 8em; vertical-align: text-top }
+  .main-content { margin-left: 100px }
 </style>
 <img src="pictures/vivek-myers-2017.jpg" alt="Vivek Myers" id="headshot" />
 
