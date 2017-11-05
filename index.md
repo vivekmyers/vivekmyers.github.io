@@ -5,7 +5,7 @@ title: "Vivek Myers"
 <style>
   #headshot { position: absolute; left: 50px; top: 50px }
 </style>
-<img src="pictures/vivek-myers-2017.jpg" alt="Vivek Myers' id="headshot" />
+<img src="pictures/vivek-myers-2017.jpg" alt="Vivek Myers" id="headshot" />
 
 - [Gnomenwald (Java)](lib/GnomenWald.jar) (CS 2110 final project)
 - [Class website for Ithaca High School AP Chemistry](http://www.tuorichem.com) (Primary designer and maintainer)
