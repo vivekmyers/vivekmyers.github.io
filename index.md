@@ -3,7 +3,7 @@ layout: default
 title: "Vivek Myers"
 ---
 <style>
-  #headshot { position: absolute; left: 50px; top: 50px }
+  #headshot { position: absolute; left: 30px; top: 30px; border: 1ex solid white }
 </style>
 <img src="pictures/vivek-myers-2017.jpg" alt="Vivek Myers" id="headshot" />
 
