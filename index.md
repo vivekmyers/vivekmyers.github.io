@@ -8,7 +8,7 @@ title: "Vivek Myers"
 <img src="pictures/vivek-myers-2017.jpg" alt="Vivek Myers" id="headshot" />
 
 - [Gnomenwald (Java)](lib/GnomenWald.jar) (CS 2110 final project)
-- <a href="pictures/Animated%20Citibike%20Usage.mp4"><img src="pictures/PastedGraphic-3%204.png">Animated Citibike Usage in NYC</a>
+- <a href="pictures/Animated%20Citibike%20Usage.mp4">Animated Citibike Usage in NYC <img height="6em" src="pictures/PastedGraphic-3%204.png"></a>
 - [Class website for Ithaca High School AP Chemistry](http://www.tuorichem.com) (Primary designer and maintainer)
 - [Termite Chess](http://kbam.net/termite) (A very old project)
 - [Chess game (Java)](lib/Chess.jar) (An old 2-player chess implementation)
