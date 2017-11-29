@@ -15,6 +15,7 @@ title: "Vivek Myers"
 - [Termite Chess](http://kbam.net/termite) (A very old project)
 - [Chess game (Java)](lib/Chess.jar) (An old 2-player chess implementation)
 - [Blockjumper](https://vm0.neocities.org/block-jumper.html) (A JavaScript game, very difficult)
+- [String Theory Project](https://www.youtube.com/watch?v=r5W6tC1rbTQ) (An introductory video for string theory)
 - [Bees (Java)](lib/Bees.jar) (playing with Java graphics and swarming)
 
 <script type="application/javascript">
