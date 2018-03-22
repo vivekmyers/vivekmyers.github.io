@@ -17,7 +17,7 @@ title: "Vivek Myers"
 - [Bees (Java)](lib/Bees.jar) (playing with Java graphics and swarming)
 - [Class website for Ithaca High School AP Chemistry](http://www.tuorichem.com) (Primary designer and maintainer)
 - [Termite Chess](http://kbam.net/termite) (A very old project)
-
+<!--
 <script type="application/javascript">
   function forAllByClass(cn, f) {
     var nl = document.getElementsByClassName(cn)
