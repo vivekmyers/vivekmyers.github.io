@@ -2,13 +2,12 @@
 layout: default
 title: "Projects - Vivek Myers"
 ---
-<!--
 <style>
   #headshot { max-width: 25%; position: absolute; left: 30px; top: 30px; border: 1ex solid white }
   .listpic { height: 8em; vertical-align: text-top }
   .main-content { margin-left: 120px }
 </style>
-<img src="pictures/vivek-myers-2017.jpg" alt="Vivek Myers" id="headshot" />--!>
+<img src="pictures/vivek-myers-2017.jpg" alt="Vivek Myers" id="headshot" />
 
 - [Gnomenwald (Java)](lib/GnomenWald.jar) (CS 2110 final project)
 - <a href="pictures/Animated%20Citibike%20Usage.mp4">Animated Citibike Usage in NYC (Summer internship project) <img class="listpic" src="pictures/PastedGraphic-3%204.png"></a>
@@ -18,7 +17,7 @@ title: "Projects - Vivek Myers"
 - [Bees (Java)](lib/Bees.jar) (playing with Java graphics and swarming)
 - [Class website for Ithaca High School AP Chemistry](http://www.tuorichem.com) (Primary designer and maintainer)
 - [Termite Chess](http://kbam.net/termite) (A very old project)
-<!--
+
 <script type="application/javascript">
   function forAllByClass(cn, f) {
     var nl = document.getElementsByClassName(cn)
