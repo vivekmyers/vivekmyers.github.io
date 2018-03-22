@@ -1,13 +1,14 @@
 ---
 layout: default
-title: "Vivek Myers"
+title: "Projects - Vivek Myers"
 ---
+<!--
 <style>
   #headshot { max-width: 25%; position: absolute; left: 30px; top: 30px; border: 1ex solid white }
   .listpic { height: 8em; vertical-align: text-top }
   .main-content { margin-left: 120px }
 </style>
-<!--<img src="pictures/vivek-myers-2017.jpg" alt="Vivek Myers" id="headshot" />!>i--!>
+<img src="pictures/vivek-myers-2017.jpg" alt="Vivek Myers" id="headshot" />--!>
 
 - [Gnomenwald (Java)](lib/GnomenWald.jar) (CS 2110 final project)
 - <a href="pictures/Animated%20Citibike%20Usage.mp4">Animated Citibike Usage in NYC (Summer internship project) <img class="listpic" src="pictures/PastedGraphic-3%204.png"></a>
