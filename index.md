@@ -13,6 +13,7 @@ title: "Projects - Vivek Myers"
 - [Termite Chess](http://kbam.net/termite) (A very old project)
 
 <script type="application/javascript">
+  window.document.title = "Projects - Vivek Myers"
   function forAllByClass(cn, f) {
     var nl = document.getElementsByClassName(cn)
     for (var i = 0; i < nl.length; i++)
