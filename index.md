@@ -11,6 +11,7 @@ title: "Projects - Vivek Myers"
 - [Bees (Java)](lib/Bees.jar) (playing with Java graphics and swarming)
 - [Class website for Ithaca High School AP Chemistry](http://www.tuorichem.com) (Primary designer and maintainer)
 - [Termite Chess](http://kbam.net/termite) (A very old project)
+- [BlockShooter](http://vivekmyers.com/BlockShooter/) (Under development)
 
 <script type="application/javascript">
   window.document.title = "Projects - Vivek Myers"
