@@ -22,7 +22,7 @@
 <section class="main-content">
 <ul>
   <li><a href="/lib/GnomenWald.jar">Gnomenwald (Java)</a> (CS 2110 final project)</li>
-  <li><a href="pictures/Animated%20Citibike%20Usage.mp4">Animated Citibike Usage in NYC (Summer internship project) <img class="listpic" src="pictures/PastedGraphic-3%204.png" /></a></li>
+  <li><a href="pictures/Animated%20Citibike%20Usage.mp4" download>Animated Citibike Usage in NYC (Summer internship project) <img class="listpic" src="pictures/PastedGraphic-3%204.png" /></a></li>
   <li><a href="/lib/Chess.jar">Chess game (Java)</a> (An old 2-player chess implementation)</li>
   <li><a href="http://vivekmyers.com/BlockShooter/">BlockShooter</a> (Under development)</li>
   <li><a href="https://www.youtube.com/watch?v=r5W6tC1rbTQ">String Theory Project</a> (An introductory video about string theory)</li>
@@ -32,11 +32,15 @@
   <li><a href="https://vm0.neocities.org/block-jumper.html">Blockjumper</a> (A JavaScript game, very difficult)</li>
 </ul>
 <script>
-const request = new XMLHttpRequest();
-    const time = new Date();
-    const formatted = time.getHours() + ":" + time.getMinutes() + ":" + time.getSeconds();
-    request.open("POST", "?log=homepage-[" + formatted + "]", true);
-    request.send();
+	if (window.location.href != "http://vivekmyers.com/") {
+		window.location = "http://vivekmyers.com/";
+	} else {
+		const request = new XMLHttpRequest();
+		const time = new Date();
+		const formatted = time.getHours() + ":" + time.getMinutes() + ":" + time.getSeconds();
+		request.open("POST", "?log=homepage-[" + formatted + "]", true);
+		request.send();
+	}
 </script>
 </body>
 </html>
