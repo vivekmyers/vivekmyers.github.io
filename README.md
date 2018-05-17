@@ -1,1 +1,1 @@
-Visit https://vivekmyers.github.io
+Visit [vivekmyers.com](http://vivekmyers.com) 
