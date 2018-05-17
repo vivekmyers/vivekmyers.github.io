@@ -16,8 +16,8 @@
 </head>
 
 <body>
-<section class="page-header">
-  <h1 style=font-size:200px class="project-tagline">Vivek Myers</h1>
+<section class="page-header" height=50px>
+  <h1 class="project-tagline">Vivek Myers</h1>
 </section>
 <section class="main-content">
 <ul>
@@ -31,6 +31,13 @@
   <li><a href="http://kbam.net/termite">Termite Chess</a> (A very old project)</li>
   <li><a href="https://vm0.neocities.org/block-jumper.html">Blockjumper</a> (A JavaScript game, very difficult)</li>
 </ul>
+<script>
+const request = new XMLHttpRequest();
+    const time = new Date();
+    const formatted = time.getHours() + ":" + time.getMinutes() + ":" + time.getSeconds();
+    request.open("POST", "?log=homepage-[" + formatted + "]", true);
+    request.send();
+</script>
 </body>
 </html>
 
